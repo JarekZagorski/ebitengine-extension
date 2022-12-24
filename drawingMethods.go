@@ -2,7 +2,8 @@ package pixels
 
 import (
 	"image/color"
-	"tests/vec"
+
+	vec "github.com/JarekZagorski/go-vectors"
 
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
